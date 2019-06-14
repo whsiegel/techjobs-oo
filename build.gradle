@@ -35,6 +35,6 @@ dependencies {
 }
 
 
-bootRun {
-	addResources = true
+springBoot {
+	mainClass = "org.launchcode.TechjobsApplication"
 }
